@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently studying at **Fatec Americana!**
 
-- 🌱 I’m currently learning **Python and Ruby!**
+- 🌱 I’m currently learning **Python and, soon, Ruby!**
 
 - 💬 Ask me about **CSS, HTML and games!**
 
-- 📫 How to reach me **leonardont2002@gmail.com**
+- 📫 How to reach me? **leonardont2002@gmail.com**
 
-- ⚡ Fun fact **I am very creative and looove games! My favorite hobby is my computer!**
+- ⚡ Fun fact: **I am very creative and looove games! My favorite hobby is my computer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
