@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying at **Fatec Americana!**
 
-- 🌱 I’m currently learning **Python and, soon, Ruby!**
+- 🌱 I’m currently learning **Unity, C#, and soon, Python!**
 
-- 💬 Ask me about **CSS, HTML and games!**
+- 💬 Ask me about **Front-end development and games!**
 
 - 📫 How to reach me? **leonardont2002@gmail.com**
 
