@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Leonardo!</h1>
 <h3 align="center">A creative and passionate developer and gamer from Brazil!</h3>
 
-- 🔭 I’m currently studying Digital Games at **Faculdade de Tecnologia de Americana!**
+- 🔭 I’m currently studying Digital Games at **Faculdade de Tecnologia de Americana**!
 
-- 🌱 I’m currently learning **Unity, C#, and soon, Python!**
+- 🌱 I’m currently learning **Python, Django, Ruby and Rails**!
 
-- 💬 Ask me about **Development and Games!**
+- 💬 Ask me about **Software Development and Games**!
 
-- 📫 How to reach me? **E-mail me at leonardont2002@gmail.com!**
+- 📫 How to reach me? **E-mail me at leonardont2002@gmail.com**!
 
 - ⚡ Fun fact: **I am very creative and looove games! My favorite hobby is using my computer!**
 
