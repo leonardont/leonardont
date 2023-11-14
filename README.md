@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Digital Games** at **Faculdade de Tecnologia de Americana (FATEC-AM)**!
 
-- 🌱 I’m currently learning **React and Next.js**!
+- 🌱 I’m currently learning **React and TypeScript**!
 
 - 💬 Ask me about **Software Development, Games and Technology**!
 
