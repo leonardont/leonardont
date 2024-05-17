@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently studying **Digital Games** at **Faculdade de Tecnologia de Americana (FATEC-AM)**!
+- 🔭 I’m currently studying **Digital Games** at **Faculdade de Tecnologia de Americana**!
 
 - 🌱 I’m currently learning **Unity and C#**!
 
