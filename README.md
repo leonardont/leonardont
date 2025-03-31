@@ -3,13 +3,13 @@
 
 <br>
 
-- 🔭 I’m currently studying **Digital Games** at **Faculdade de Tecnologia de Americana**!
+- 🔭 I’m currently pursuing a **master's degree in technology** at **Universidade Estadual de Campinas (UNICAMP)**! I also have a degree in **Digital Games** from **Faculdade de Tecnologia (FATEC) de Americana**!
 
-- 🌱 I’m currently learning **Godot and GDScript**!
+- 🌱 I’m currently learning **Unity, C# and React**!
 
 - 💬 Ask me about **games, software development and technology**!
 
-- 📫 How to reach me? **Feel free to e-mail me at leonardont2002@gmail.com**!
+- 📫 To reach me, feel free to e-mail me at **leonardont2002@gmail.com** or visit my **LinkedIn page** at my bio!
 
 - ⚡ Fun fact: **I am very creative and love games! My favorite hobby is playing video games!**
 
