@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently pursuing a **master's degree in technology** at **Universidade Estadual de Campinas (UNICAMP)**! I also hold a Bachelor of Technology degree in **Digital Games** from **Faculdade de Tecnologia (FATEC) de Americana**!
+- 🔭 I’m currently pursuing a **Master's degree in Technology** at **State University of Campinas (UNICAMP)**! I also hold a Bachelor of Technology degree in **Digital Games** from **Faculty of Technology of Americana (FATEC)**!
 
 - 🌱 I’m currently learning **React.js, TypeScript and Unity**!
 
