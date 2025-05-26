@@ -3,11 +3,11 @@
 
 <br>
 
-- 🔭 I’m currently pursuing a **master's degree in technology** at **Universidade Estadual de Campinas (UNICAMP)**! I also have a degree in **Digital Games** from **Faculdade de Tecnologia (FATEC) de Americana**!
+- 🔭 I’m currently pursuing a **master's degree in technology** at **Universidade Estadual de Campinas (UNICAMP)**! I also hold a Bachelor of Technology degree in **Digital Games** from **Faculdade de Tecnologia (FATEC) de Americana**!
 
-- 🌱 I’m currently learning **Unity, C# and React**!
+- 🌱 I’m currently learning **React.js, TypeScript and Unity**!
 
-- 💬 Ask me about **games, software development and technology**!
+- 💬 Ask me about **software development, technology and games**!
 
 - 📫 To reach me, feel free to e-mail me at **leonardont2002@gmail.com** or visit my **LinkedIn page** at my bio!
 
