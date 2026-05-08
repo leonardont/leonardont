@@ -1,6 +1,6 @@
 <div align="center">
-    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&letterSpacing=0.05em&duration=2000&pause=4000&color=6F42FFFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Leonardo!+%F0%9F%91%8B;I'm+a+full+stack+dev+%F0%9F%96%A5%EF%B8%8F;A+game+developer+%F0%9F%8E%AE;And+a+video+game+enthusiast+%F0%9F%91%BE;Feel+free+to+connect+with+me!+%F0%9F%A5%B3" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&letterSpacing=0.05em&duration=2000&pause=4000&color=CABEFFFF&center=true&vCenter=true&width=650&height=70&lines=Hey%2C+I'm+Leonardo!+%F0%9F%91%8B;I'm+a+full+stack+dev+%F0%9F%96%A5%EF%B8%8F;A+game+developer+%F0%9F%8E%AE;And+a+video+game+enthusiast+%F0%9F%91%BE;Feel+free+to+connect+with+me!+%F0%9F%A5%B3" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,14 +13,14 @@
 ---
 
 ```yaml
-name: Leonardo Nabarro Tonezer
-location: Campinas, São Paulo, Brazil 🇧🇷
+name: leonardo nabarro tonezer
+location: campinas, são paulo, brazil <🇧🇷>
 education:
-    - MSc in Technology at Universidade Estadual de Campinas (in progress)
-    - Bachelor of Technology in Digital Games at Faculdade de Tecnologia de Americana (completed)
+    - ongoing master's in computer engineering at Universidade Estadual de Campinas
+    - bachelor of technology in digital games at Faculdade de Tecnologia de Americana
 focus: full stack development
-current: learning React.js advanced patterns and Testing Library; playing Detroit: Become Human
-interests: software development, technology, video games]
+current: learning react.js advanced patterns and testing library; playing Detroit: Become Human
+interests: software development, technology, video games
 fun_facts: i'm a creative developer who loves games. my favorite hobby is playing them!
 ```
 
